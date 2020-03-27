@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42b86599-9b33-4d04-900a-b73c16036f20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZiGKy2Ym5T7BeKegqP4vP6nBMv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HighApplicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mrd.high.HighApplicationTest" />
+      <module name="high-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mrd.high.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HighApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b86599-9b33-4d04-900a-b73c16036f20" name="Default Changelist" comment="" />
+      <created>1585314440930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585314440930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585314904451">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="238" y="148" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585314904451" />
+    <state width="1045" height="184" key="GridCell.Tab.0.bottom" timestamp="1585319375220">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1045" height="184" key="GridCell.Tab.0.bottom/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585319375220" />
+    <state width="1045" height="184" key="GridCell.Tab.0.center" timestamp="1585319375218">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1045" height="184" key="GridCell.Tab.0.center/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585319375218" />
+    <state width="1045" height="184" key="GridCell.Tab.0.left" timestamp="1585319375217">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1045" height="184" key="GridCell.Tab.0.left/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585319375217" />
+    <state width="1045" height="184" key="GridCell.Tab.0.right" timestamp="1585319375219">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1045" height="184" key="GridCell.Tab.0.right/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585319375219" />
+    <state x="154" y="114" key="SettingsEditor" timestamp="1585315444048">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="154" y="114" key="SettingsEditor/1440.0.1112.770/0.23.1440.822@0.23.1440.822" timestamp="1585315444048" />
+    <state x="494" y="232" width="683" height="486" key="find.popup" timestamp="1585318497008">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="494" y="232" width="683" height="486" key="find.popup/1440.23.1112.747/0.23.1440.822@0.23.1440.822" timestamp="1585318497008" />
+  </component>
+</project>
